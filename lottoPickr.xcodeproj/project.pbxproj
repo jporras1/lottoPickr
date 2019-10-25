@@ -34,6 +34,7 @@
 		3BB3094E236152BE00A1109F /* lottoPickrUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = lottoPickrUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BB30952236152BE00A1109F /* lottoPickrUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lottoPickrUITests.swift; sourceTree = "<group>"; };
 		3BB30954236152BE00A1109F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BB3095D2361567600A1109F /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 			isa = PBXGroup;
 			children = (
 				3BB3093D236152BC00A1109F /* AppDelegate.swift */,
+				3BB3095D2361567600A1109F /* MyPlayground.playground */,
 				3BB3093F236152BC00A1109F /* ViewController.swift */,
 				3BB30944236152BE00A1109F /* Assets.xcassets */,
 				3BB30946236152BE00A1109F /* LaunchScreen.storyboard */,
